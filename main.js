@@ -12,6 +12,6 @@
 //  console.log(isMarried)
 //  console.log(num)
 //  console.log(name)
-for (var a= 10 ; a>0; a-=2){
-    console.log(a+2)
-}
+// for (var a= 10 ; a>0; a-=2){
+//     console.log(a+2)
+// }
